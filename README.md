@@ -21,5 +21,5 @@ Fastou-lhe às margens do vigá
 </pre>
 
 <p align="center">
-  <a href="https://www.github.com/cehaga-ufrj"><img height="40" src="https://github.com/cehaga/cehaga/blob/main/ufrj-logo.png" alt="UFRJ"></a>
+  <a href="https://www.github.com/cehaga-ufrj"><img height="40" style="border-radius:20%;" src="https://github.com/cehaga/cehaga/blob/main/ufrj-logo.png" alt="UFRJ"></a>
 </p>
