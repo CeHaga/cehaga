@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Carlos Bravo and I like to make bots to some games I play and make computers do my job, in my free time I study Computer Science at UFRJ. I took an Informatics technical course at CEFET/RJ and worked as a web developer at Exablack. Currently I'm working in a scientific initiation in Deep Learning at PPGI-UFRJ.
+My name is Carlos Bravo and I like to make bots to some games I play and make computers do my job, in my free time I study Computer Science at UFRJ. I took an Informatics technical course at CEFET/RJ, worked as a web developer at Exablack, worked in a scientific initiation in Deep Learning at PPGI-UFRJ and currently I'm a backend developer at COPPETEC/UFRJ and a game developer at GDP.
 
 If you want to check my school assignments (For some strange <s>hopefully legal</s> reason), go to the organization below. Otherwise, stay here and check out some of my personal projects.
 <p align="center">
